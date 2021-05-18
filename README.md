@@ -6,3 +6,10 @@ A caixa irá possuir também um mecanismo luminoso para indicar se a caixa se en
 A aplicação de smartphone, para além de permitir a abertura da caixa, terá também incorporada uma característica que indica o estado da caixa, isto é, se a caixa se encontra aberta ou fechada, tal como o estado do progresso da introdução dos códigos e em caso da introdução incorreta do código, será emitida uma notificação. 
 
 Para desativar o alarme, o utilizador terá que ter acesso ao smartphone ou introduzir o código correto. Após demasiadas tentativas incorretas, só será possível abrir a caixa a partir do smartphone.
+
+
+-como utilizar o projeto 
+  
+-Descarregar 
+-instalaço de bibliotecas 
+-compilação()
