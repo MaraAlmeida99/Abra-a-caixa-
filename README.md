@@ -7,9 +7,11 @@ A aplicação de smartphone, para além de permitir a abertura da caixa, terá t
 
 Para desativar o alarme, o utilizador terá que ter acesso ao smartphone ou introduzir o código correto. Após demasiadas tentativas incorretas, só será possível abrir a caixa a partir do smartphone.
 
-
--como utilizar o projeto 
+-setup
+-como utilizar o projeto (instalação) 
   
--Descarregar 
+-Descarregar o projeto 
 -instalaço de bibliotecas 
+
 -compilação()
+
