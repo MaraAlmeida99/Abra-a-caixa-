@@ -1,5 +1,4 @@
-# Sistemas-Embutidos-
-
+# ABRA A CAIXA
 O tema escolhido para o projeto da UC Sistemas Embutidos foi “Abra a Caixa”. O objetivo deste projeto, é a construção de um caixa, com um sistema de fecho, que apenas abre após a introdução correta de um certo código, composto por uma combinação de um código numérico com uma sequência de batidas e de rotações, pela ordem de execução definida.  Outro método de abertura de caixa será a partir de uma aplicação para smartphone.
 
 A caixa irá possuir também um mecanismo luminoso para indicar se a caixa se encontra aberta ou fechada e um mecanismo de som, que será emitido durante a abertura da caixa ou como alarme quando o código é inserido incorretamente vezes consecutivas.
