@@ -6,7 +6,7 @@ Nesta secção são descritos os passos necessários para uma prévia instalaç�
 ### Instalação
 -Descarregar o projeto 
 
--instalaço de bibliotecas 
+-instalação de bibliotecas 
 
 ### Configurações Iniciais 
 -compilação()
