@@ -15,6 +15,3 @@ Nesta secção são descritos os passos necessários para uma prévia instalaç�
 ## Passos de Execução
 
 
-## Autores
-
-
