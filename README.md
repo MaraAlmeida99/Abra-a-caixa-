@@ -34,10 +34,5 @@ Nesta secção são descritos os passos necessários para uma prévia instalaç�
 
 
 
-### Configurações Iniciais 
--compilação()
-
-
-
 
 
