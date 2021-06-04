@@ -13,7 +13,7 @@ Nesta secção são descritos os passos necessários para uma prévia instalaç�
 
 -Importar o ficheiro de código da Pasta Arduino para o Arduino IDE
 
--Instalação de bibliotecas:
+-Instalação de bibliotecas a partir do software:
 
     -Adafruit BusioO by Adamfruit versão 1.7.3
     
