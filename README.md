@@ -30,6 +30,9 @@ Nesta secção são descritos os passos necessários para uma prévia instalaç�
 
 -Download do APK disponivel no link: 
 
+**Para executar a parte referente ao Raspberry Pi é necessário seguir os passos seguintes:**
+
+
 
 ### Configurações Iniciais 
 -compilação()
