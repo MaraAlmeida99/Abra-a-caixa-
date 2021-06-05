@@ -15,13 +15,13 @@ Nesta secção são descritos os passos necessários para uma prévia instalaç�
 
 -Instalação de bibliotecas a partir do software:
 
-    -Adafruit BusioO by Adamfruit versão 1.7.3
+    -Adafruit BusioO by Adafruit versão 1.7.3
     
-    -Adafruit STMPE610 by adamfruit versão 1.1.3
+    -Adafruit STMPE610 by Adafruit versão 1.1.3
     
-    -Servo by Built-In by Michael Margolis , ARduino versão 1.1.6
+    -Servo by Built-In by Michael Margolis , Arduino versão 1.1.6
     
-    -Keypad by Mark Stanley , ALexander Brevig versão 3.1.1
+    -Keypad by Mark Stanley , Alexander Brevig versão 3.1.1
     
     
 **Para executar a parte referente ao android é necessário seguir os passos seguintes:**
