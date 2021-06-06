@@ -1,0 +1,4 @@
+Pyrebase==3.0.27
+firebase_admin==5.0.0
+pyserial==3.5
+RPi==0.0.1
