@@ -26,7 +26,7 @@ Nesta secção são descritos os passos necessários para uma prévia instalaç�
     
 **Para executar a parte referente ao android é necessário seguir os passos seguintes:**
 
--Necessário Android com 
+-Necessário Android 11
 
 -Download do APK disponivel no link: 
 
