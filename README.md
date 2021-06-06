@@ -32,6 +32,8 @@ Nesta secção são descritos os passos necessários para uma prévia instalaç�
 
 **Para executar a parte referente ao Raspberry Pi é necessário seguir os passos seguintes:**
 
+$ pip install -r requirements.txt
+
 
 
 
