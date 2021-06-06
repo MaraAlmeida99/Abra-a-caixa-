@@ -1,8 +1,8 @@
 """
     Abre a caixa
-    Emite um som de confirmação e um sinal de luz verde quando a caixa abre
-    Emite um sinal de luz vermelho
-    Faz update do estado para fechado
+    Emite um som de confirmação e um sinal de luz verde quando a caixa está aberta
+    Emite um sinal de luz vermelho quando caixa está fechada
+    Faz update do estado.
 """
 
 import pyrebase
@@ -38,8 +38,6 @@ GPIO.setup(greenPin, GPIO.OUT)
 
 def stream_handler(message):
 	print(message["data"])
-	#print("is in: " + str("estado" in message["data"]))
-	#print("estado: " + message["data"]["estado"])
 	if message["data"] == "Aberto":
 		ser.write(b"RASPBERRY OPEN\n")
 		os.system("aplay confirmation.wav")
