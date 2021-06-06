@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml:2:1-24:12
+ADDED from /home/trucha/AndroidStudioProjects/Abra-a-caixa-/Android/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/trucha/AndroidStudioProjects/Abra-a-caixa-/Android/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/trucha/AndroidStudioProjects/Abra-a-caixa-/Android/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/trucha/AndroidStudioProjects/Abra-a-caixa-/Android/app/src/main/AndroidManifest.xml:2:1-24:12
 MERGED from [com.google.android.material:material:1.3.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/a6074055eb4ed33a90ba951d59ed2041/material-1.3.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/trucha/.gradle/caches/transforms-2/files-2.1/227afb924571e639417de76e44f3efcd/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.2.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/08ea9ab6e010a30d886447a351298b97/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
@@ -45,31 +45,31 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/trucha/.gradle/c
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/7b1ca210028d7b8c9c574006a211496f/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/639b1b54c3f697619d1cb841181df4b6/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/d889f08c46cbd010c322cbfdcbc9b94f/annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
-INJECTED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/trucha/AndroidStudioProjects/Abra-a-caixa-/Android/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/trucha/AndroidStudioProjects/Abra-a-caixa-/Android/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/trucha/AndroidStudioProjects/Abra-a-caixa-/Android/app/src/main/AndroidManifest.xml:2:1-24:12
 	package
-		ADDED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml:3:5-37
-		INJECTED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml
-		INJECTED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml
+		ADDED from /home/trucha/AndroidStudioProjects/Abra-a-caixa-/Android/app/src/main/AndroidManifest.xml:3:5-37
+		INJECTED from /home/trucha/AndroidStudioProjects/Abra-a-caixa-/Android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/trucha/AndroidStudioProjects/Abra-a-caixa-/Android/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml
-		ADDED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml:2:1-24:12
-		INJECTED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml
+		INJECTED from /home/trucha/AndroidStudioProjects/Abra-a-caixa-/Android/app/src/main/AndroidManifest.xml
+		ADDED from /home/trucha/AndroidStudioProjects/Abra-a-caixa-/Android/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/trucha/AndroidStudioProjects/Abra-a-caixa-/Android/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml
-		ADDED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml:2:1-24:12
-		INJECTED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml
+		INJECTED from /home/trucha/AndroidStudioProjects/Abra-a-caixa-/Android/app/src/main/AndroidManifest.xml
+		ADDED from /home/trucha/AndroidStudioProjects/Abra-a-caixa-/Android/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/trucha/AndroidStudioProjects/Abra-a-caixa-/Android/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /home/trucha/AndroidStudioProjects/Abra-a-caixa-/Android/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml:5:5-66
+ADDED from /home/trucha/AndroidStudioProjects/Abra-a-caixa-/Android/app/src/main/AndroidManifest.xml:5:5-66
 MERGED from [com.google.firebase:firebase-database:19.7.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/16980eb18d2b314bf26b33da4eaf6c45/firebase-database-19.7.0/AndroidManifest.xml:26:5-67
 MERGED from [com.google.firebase:firebase-database:19.7.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/16980eb18d2b314bf26b33da4eaf6c45/firebase-database-19.7.0/AndroidManifest.xml:26:5-67
 	android:name
-		ADDED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml:5:22-64
+		ADDED from /home/trucha/AndroidStudioProjects/Abra-a-caixa-/Android/app/src/main/AndroidManifest.xml:5:22-64
 application
-ADDED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml:7:5-22:19
+ADDED from /home/trucha/AndroidStudioProjects/Abra-a-caixa-/Android/app/src/main/AndroidManifest.xml:7:5-22:19
 MERGED from [com.google.android.material:material:1.3.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/a6074055eb4ed33a90ba951d59ed2041/material-1.3.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.3.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/a6074055eb4ed33a90ba951d59ed2041/material-1.3.0/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/trucha/.gradle/caches/transforms-2/files-2.1/227afb924571e639417de76e44f3efcd/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
@@ -93,39 +93,39 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/truch
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.3.1] /home/trucha/.gradle/caches/transforms-2/files-2.1/2dc73fb6c16bf0c6696795a46e9c21ac/core-1.3.1/AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml:12:9-35
+		ADDED from /home/trucha/AndroidStudioProjects/Abra-a-caixa-/Android/app/src/main/AndroidManifest.xml:12:9-35
 	android:label
-		ADDED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml:10:9-41
+		ADDED from /home/trucha/AndroidStudioProjects/Abra-a-caixa-/Android/app/src/main/AndroidManifest.xml:10:9-41
 	android:roundIcon
-		ADDED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml:11:9-54
+		ADDED from /home/trucha/AndroidStudioProjects/Abra-a-caixa-/Android/app/src/main/AndroidManifest.xml:11:9-54
 	android:icon
-		ADDED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml:9:9-43
+		ADDED from /home/trucha/AndroidStudioProjects/Abra-a-caixa-/Android/app/src/main/AndroidManifest.xml:9:9-43
 	android:allowBackup
-		ADDED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml:8:9-35
+		ADDED from /home/trucha/AndroidStudioProjects/Abra-a-caixa-/Android/app/src/main/AndroidManifest.xml:8:9-35
 	android:theme
-		ADDED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml:13:9-48
+		ADDED from /home/trucha/AndroidStudioProjects/Abra-a-caixa-/Android/app/src/main/AndroidManifest.xml:13:9-48
 activity#com.example.abraacaixa.ConfigurarCodigo
-ADDED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml:14:9-54
+ADDED from /home/trucha/AndroidStudioProjects/Abra-a-caixa-/Android/app/src/main/AndroidManifest.xml:14:9-54
 	android:name
-		ADDED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml:14:19-51
+		ADDED from /home/trucha/AndroidStudioProjects/Abra-a-caixa-/Android/app/src/main/AndroidManifest.xml:14:19-51
 activity#com.example.abraacaixa.MainActivity
-ADDED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml:15:9-21:20
+ADDED from /home/trucha/AndroidStudioProjects/Abra-a-caixa-/Android/app/src/main/AndroidManifest.xml:15:9-21:20
 	android:name
-		ADDED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml:15:19-47
+		ADDED from /home/trucha/AndroidStudioProjects/Abra-a-caixa-/Android/app/src/main/AndroidManifest.xml:15:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml:16:13-20:29
+ADDED from /home/trucha/AndroidStudioProjects/Abra-a-caixa-/Android/app/src/main/AndroidManifest.xml:16:13-20:29
 action#android.intent.action.MAIN
-ADDED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml:17:17-69
+ADDED from /home/trucha/AndroidStudioProjects/Abra-a-caixa-/Android/app/src/main/AndroidManifest.xml:17:17-69
 	android:name
-		ADDED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml:17:25-66
+		ADDED from /home/trucha/AndroidStudioProjects/Abra-a-caixa-/Android/app/src/main/AndroidManifest.xml:17:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml:19:17-77
+ADDED from /home/trucha/AndroidStudioProjects/Abra-a-caixa-/Android/app/src/main/AndroidManifest.xml:19:17-77
 	android:name
-		ADDED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml:19:27-74
+		ADDED from /home/trucha/AndroidStudioProjects/Abra-a-caixa-/Android/app/src/main/AndroidManifest.xml:19:27-74
 uses-sdk
-INJECTED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml
-INJECTED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml
+INJECTED from /home/trucha/AndroidStudioProjects/Abra-a-caixa-/Android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/trucha/AndroidStudioProjects/Abra-a-caixa-/Android/app/src/main/AndroidManifest.xml
+INJECTED from /home/trucha/AndroidStudioProjects/Abra-a-caixa-/Android/app/src/main/AndroidManifest.xml
 MERGED from [com.google.android.material:material:1.3.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/a6074055eb4ed33a90ba951d59ed2041/material-1.3.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.3.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/a6074055eb4ed33a90ba951d59ed2041/material-1.3.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/trucha/.gradle/caches/transforms-2/files-2.1/227afb924571e639417de76e44f3efcd/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
@@ -208,16 +208,16 @@ MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/trucha/.gradle/caches/
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/639b1b54c3f697619d1cb841181df4b6/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/d889f08c46cbd010c322cbfdcbc9b94f/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/d889f08c46cbd010c322cbfdcbc9b94f/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
-INJECTED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml
-INJECTED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml
+INJECTED from /home/trucha/AndroidStudioProjects/Abra-a-caixa-/Android/app/src/main/AndroidManifest.xml
+INJECTED from /home/trucha/AndroidStudioProjects/Abra-a-caixa-/Android/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml
-		ADDED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml
-		INJECTED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml
+		INJECTED from /home/trucha/AndroidStudioProjects/Abra-a-caixa-/Android/app/src/main/AndroidManifest.xml
+		ADDED from /home/trucha/AndroidStudioProjects/Abra-a-caixa-/Android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/trucha/AndroidStudioProjects/Abra-a-caixa-/Android/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml
-		ADDED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml
-		INJECTED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml
+		INJECTED from /home/trucha/AndroidStudioProjects/Abra-a-caixa-/Android/app/src/main/AndroidManifest.xml
+		ADDED from /home/trucha/AndroidStudioProjects/Abra-a-caixa-/Android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/trucha/AndroidStudioProjects/Abra-a-caixa-/Android/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [com.google.firebase:firebase-database:19.7.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/16980eb18d2b314bf26b33da4eaf6c45/firebase-database-19.7.0/AndroidManifest.xml:25:5-79
 	android:name

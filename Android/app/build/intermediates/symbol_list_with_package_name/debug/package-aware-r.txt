@@ -1755,6 +1755,7 @@ id SYM
 id TOP_END
 id TOP_START
 id TextBatidas
+id TextConfi
 id TextEstado
 id TextNumerico
 id TextRotacoes
