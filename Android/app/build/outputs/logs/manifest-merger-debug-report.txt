@@ -1,0 +1,274 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.android.material:material:1.3.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/a6074055eb4ed33a90ba951d59ed2041/material-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/trucha/.gradle/caches/transforms-2/files-2.1/227afb924571e639417de76e44f3efcd/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/08ea9ab6e010a30d886447a351298b97/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database:19.7.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/16980eb18d2b314bf26b33da4eaf6c45/firebase-database-19.7.0/AndroidManifest.xml:15:1-38:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/6b67edcdad6c70fe98379ac0fb1fabb3/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/640caf3b2faa591f24046eaa719831f4/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] /home/trucha/.gradle/caches/transforms-2/files-2.1/be178b98307575139e2933a812e849d4/firebase-database-collection-17.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/9d8c6cdadedf90e599dbbeb472d8d072/play-services-base-17.0.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] /home/trucha/.gradle/caches/transforms-2/files-2.1/b53394a132a321c5987e59cd884aa386/firebase-auth-interop-19.0.2/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:19.5.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/624048152b5c34465c301686b1d20b96/firebase-common-19.5.0/AndroidManifest.xml:15:1-49:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/2714fdf61c0bde4c72e196228c2a4078/play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/a49ca5f9155a9aeff23661f064aa80e9/play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/8672c6b3432dd185d11b1f62d08f884e/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/48103b1e63fb468d2452175a2baac929/appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/b6cb252af516751eb9d24ca6d33731a4/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/0db6e8623def51ac11b3d5b1bfd249d6/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/7b68bced51fd4fe7002f78b57da3c3d8/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/842cb8b6f1bfe30c4696cd7f6aa9c23c/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/213f17480aec5c7083ae6aeb04d9ecdb/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/14a7245e5cdc38ccb4573d9eb817f6e2/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/d5560a0458f86e233ebe7d93500a6754/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/99eba69594fcb7e7137b3046344bdc2b/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/b10f2c6f5570d988c004427f1d64cdd5/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/4c0f203791b9ef2f7e44c96d917d429e/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/bfef28f6cc83e4f715d611fab27390b6/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/de44211b8827b239f31324d1d90cf4a5/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/50c61236a10088440a8e44ba79298148/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] /home/trucha/.gradle/caches/transforms-2/files-2.1/2dc73fb6c16bf0c6696795a46e9c21ac/core-1.3.1/AndroidManifest.xml:17:1-26:12
+MERGED from [com.google.firebase:firebase-components:16.1.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/c2780c0d8ac97a6a3ec6f7648b786bb2/firebase-components-16.1.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/66b123a906ad3873dedb44edfa105099/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/57fe24bbc2632db2716c5a05c0746aa7/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/55fb84e19caed9fe5b767663ae5f48b4/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/d64bf16f6669573a1ac536dec9b400e5/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/4b261818d2305f4f60b83f9e91a20c4d/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/c7fc52dac36e88883a98f5df94f6ad0d/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/d9ff3fcd730f77a279474e447a153a02/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/ac88e887ac46d0844d664d6ff031048c/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/9deddd8124456ecb17ff862b2919d78c/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/7b1ca210028d7b8c9c574006a211496f/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/639b1b54c3f697619d1cb841181df4b6/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/d889f08c46cbd010c322cbfdcbc9b94f/annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml:3:5-37
+		INJECTED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml
+		INJECTED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml
+		ADDED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml
+		ADDED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml:5:5-66
+MERGED from [com.google.firebase:firebase-database:19.7.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/16980eb18d2b314bf26b33da4eaf6c45/firebase-database-19.7.0/AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:19.7.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/16980eb18d2b314bf26b33da4eaf6c45/firebase-database-19.7.0/AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml:7:5-22:19
+MERGED from [com.google.android.material:material:1.3.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/a6074055eb4ed33a90ba951d59ed2041/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/a6074055eb4ed33a90ba951d59ed2041/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/trucha/.gradle/caches/transforms-2/files-2.1/227afb924571e639417de76e44f3efcd/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/trucha/.gradle/caches/transforms-2/files-2.1/227afb924571e639417de76e44f3efcd/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-database:19.7.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/16980eb18d2b314bf26b33da4eaf6c45/firebase-database-19.7.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-database:19.7.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/16980eb18d2b314bf26b33da4eaf6c45/firebase-database-19.7.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/9d8c6cdadedf90e599dbbeb472d8d072/play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/9d8c6cdadedf90e599dbbeb472d8d072/play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] /home/trucha/.gradle/caches/transforms-2/files-2.1/b53394a132a321c5987e59cd884aa386/firebase-auth-interop-19.0.2/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] /home/trucha/.gradle/caches/transforms-2/files-2.1/b53394a132a321c5987e59cd884aa386/firebase-auth-interop-19.0.2/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/624048152b5c34465c301686b1d20b96/firebase-common-19.5.0/AndroidManifest.xml:25:5-47:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/624048152b5c34465c301686b1d20b96/firebase-common-19.5.0/AndroidManifest.xml:25:5-47:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/2714fdf61c0bde4c72e196228c2a4078/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/2714fdf61c0bde4c72e196228c2a4078/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/a49ca5f9155a9aeff23661f064aa80e9/play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/a49ca5f9155a9aeff23661f064aa80e9/play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.3.1] /home/trucha/.gradle/caches/transforms-2/files-2.1/2dc73fb6c16bf0c6696795a46e9c21ac/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] /home/trucha/.gradle/caches/transforms-2/files-2.1/2dc73fb6c16bf0c6696795a46e9c21ac/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/66b123a906ad3873dedb44edfa105099/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/66b123a906ad3873dedb44edfa105099/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] /home/trucha/.gradle/caches/transforms-2/files-2.1/2dc73fb6c16bf0c6696795a46e9c21ac/core-1.3.1/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml:13:9-48
+activity#com.example.abraacaixa.ConfigurarCodigo
+ADDED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml:14:9-54
+	android:name
+		ADDED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml:14:19-51
+activity#com.example.abraacaixa.MainActivity
+ADDED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml
+INJECTED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.3.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/a6074055eb4ed33a90ba951d59ed2041/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/a6074055eb4ed33a90ba951d59ed2041/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/trucha/.gradle/caches/transforms-2/files-2.1/227afb924571e639417de76e44f3efcd/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/trucha/.gradle/caches/transforms-2/files-2.1/227afb924571e639417de76e44f3efcd/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/08ea9ab6e010a30d886447a351298b97/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/08ea9ab6e010a30d886447a351298b97/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-database:19.7.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/16980eb18d2b314bf26b33da4eaf6c45/firebase-database-19.7.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:19.7.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/16980eb18d2b314bf26b33da4eaf6c45/firebase-database-19.7.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/6b67edcdad6c70fe98379ac0fb1fabb3/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/6b67edcdad6c70fe98379ac0fb1fabb3/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/640caf3b2faa591f24046eaa719831f4/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/640caf3b2faa591f24046eaa719831f4/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] /home/trucha/.gradle/caches/transforms-2/files-2.1/be178b98307575139e2933a812e849d4/firebase-database-collection-17.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] /home/trucha/.gradle/caches/transforms-2/files-2.1/be178b98307575139e2933a812e849d4/firebase-database-collection-17.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/9d8c6cdadedf90e599dbbeb472d8d072/play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/9d8c6cdadedf90e599dbbeb472d8d072/play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] /home/trucha/.gradle/caches/transforms-2/files-2.1/b53394a132a321c5987e59cd884aa386/firebase-auth-interop-19.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] /home/trucha/.gradle/caches/transforms-2/files-2.1/b53394a132a321c5987e59cd884aa386/firebase-auth-interop-19.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:19.5.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/624048152b5c34465c301686b1d20b96/firebase-common-19.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.5.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/624048152b5c34465c301686b1d20b96/firebase-common-19.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/2714fdf61c0bde4c72e196228c2a4078/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/2714fdf61c0bde4c72e196228c2a4078/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/a49ca5f9155a9aeff23661f064aa80e9/play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/a49ca5f9155a9aeff23661f064aa80e9/play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/8672c6b3432dd185d11b1f62d08f884e/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/8672c6b3432dd185d11b1f62d08f884e/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/48103b1e63fb468d2452175a2baac929/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/48103b1e63fb468d2452175a2baac929/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/b6cb252af516751eb9d24ca6d33731a4/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/b6cb252af516751eb9d24ca6d33731a4/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/0db6e8623def51ac11b3d5b1bfd249d6/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/0db6e8623def51ac11b3d5b1bfd249d6/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/7b68bced51fd4fe7002f78b57da3c3d8/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/7b68bced51fd4fe7002f78b57da3c3d8/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/842cb8b6f1bfe30c4696cd7f6aa9c23c/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/842cb8b6f1bfe30c4696cd7f6aa9c23c/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/213f17480aec5c7083ae6aeb04d9ecdb/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/213f17480aec5c7083ae6aeb04d9ecdb/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/14a7245e5cdc38ccb4573d9eb817f6e2/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/14a7245e5cdc38ccb4573d9eb817f6e2/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/d5560a0458f86e233ebe7d93500a6754/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/d5560a0458f86e233ebe7d93500a6754/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/99eba69594fcb7e7137b3046344bdc2b/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/99eba69594fcb7e7137b3046344bdc2b/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/b10f2c6f5570d988c004427f1d64cdd5/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/b10f2c6f5570d988c004427f1d64cdd5/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/4c0f203791b9ef2f7e44c96d917d429e/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/4c0f203791b9ef2f7e44c96d917d429e/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/bfef28f6cc83e4f715d611fab27390b6/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/bfef28f6cc83e4f715d611fab27390b6/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/de44211b8827b239f31324d1d90cf4a5/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/de44211b8827b239f31324d1d90cf4a5/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/50c61236a10088440a8e44ba79298148/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/50c61236a10088440a8e44ba79298148/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] /home/trucha/.gradle/caches/transforms-2/files-2.1/2dc73fb6c16bf0c6696795a46e9c21ac/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] /home/trucha/.gradle/caches/transforms-2/files-2.1/2dc73fb6c16bf0c6696795a46e9c21ac/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/c2780c0d8ac97a6a3ec6f7648b786bb2/firebase-components-16.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/c2780c0d8ac97a6a3ec6f7648b786bb2/firebase-components-16.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/66b123a906ad3873dedb44edfa105099/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/66b123a906ad3873dedb44edfa105099/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/57fe24bbc2632db2716c5a05c0746aa7/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/57fe24bbc2632db2716c5a05c0746aa7/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/55fb84e19caed9fe5b767663ae5f48b4/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/55fb84e19caed9fe5b767663ae5f48b4/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/d64bf16f6669573a1ac536dec9b400e5/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/d64bf16f6669573a1ac536dec9b400e5/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/4b261818d2305f4f60b83f9e91a20c4d/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/4b261818d2305f4f60b83f9e91a20c4d/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/c7fc52dac36e88883a98f5df94f6ad0d/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/c7fc52dac36e88883a98f5df94f6ad0d/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/d9ff3fcd730f77a279474e447a153a02/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/d9ff3fcd730f77a279474e447a153a02/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/ac88e887ac46d0844d664d6ff031048c/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/ac88e887ac46d0844d664d6ff031048c/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/9deddd8124456ecb17ff862b2919d78c/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/9deddd8124456ecb17ff862b2919d78c/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/7b1ca210028d7b8c9c574006a211496f/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/7b1ca210028d7b8c9c574006a211496f/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/639b1b54c3f697619d1cb841181df4b6/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/639b1b54c3f697619d1cb841181df4b6/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/d889f08c46cbd010c322cbfdcbc9b94f/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/d889f08c46cbd010c322cbfdcbc9b94f/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml
+INJECTED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml
+		ADDED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml
+		INJECTED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml
+		ADDED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml
+		INJECTED from /home/trucha/AndroidStudioProjects/AbraaCaixa/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-database:19.7.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/16980eb18d2b314bf26b33da4eaf6c45/firebase-database-19.7.0/AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-database:19.7.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/16980eb18d2b314bf26b33da4eaf6c45/firebase-database-19.7.0/AndroidManifest.xml:25:22-76
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-database:19.7.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/16980eb18d2b314bf26b33da4eaf6c45/firebase-database-19.7.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/624048152b5c34465c301686b1d20b96/firebase-common-19.5.0/AndroidManifest.xml:33:9-46:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/624048152b5c34465c301686b1d20b96/firebase-common-19.5.0/AndroidManifest.xml:33:9-46:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-database:19.7.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/16980eb18d2b314bf26b33da4eaf6c45/firebase-database-19.7.0/AndroidManifest.xml:31:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/624048152b5c34465c301686b1d20b96/firebase-common-19.5.0/AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/624048152b5c34465c301686b1d20b96/firebase-common-19.5.0/AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-database:19.7.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/16980eb18d2b314bf26b33da4eaf6c45/firebase-database-19.7.0/AndroidManifest.xml:30:13-84
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:19.7.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/16980eb18d2b314bf26b33da4eaf6c45/firebase-database-19.7.0/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:19.7.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/16980eb18d2b314bf26b33da4eaf6c45/firebase-database-19.7.0/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:19.7.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/16980eb18d2b314bf26b33da4eaf6c45/firebase-database-19.7.0/AndroidManifest.xml:33:17-109
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/9d8c6cdadedf90e599dbbeb472d8d072/play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/9d8c6cdadedf90e599dbbeb472d8d072/play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/9d8c6cdadedf90e599dbbeb472d8d072/play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/9d8c6cdadedf90e599dbbeb472d8d072/play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.5.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/624048152b5c34465c301686b1d20b96/firebase-common-19.5.0/AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/624048152b5c34465c301686b1d20b96/firebase-common-19.5.0/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/624048152b5c34465c301686b1d20b96/firebase-common-19.5.0/AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/624048152b5c34465c301686b1d20b96/firebase-common-19.5.0/AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/624048152b5c34465c301686b1d20b96/firebase-common-19.5.0/AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/624048152b5c34465c301686b1d20b96/firebase-common-19.5.0/AndroidManifest.xml:27:13-77
+meta-data#com.google.firebase.components:com.google.firebase.dynamicloading.DynamicLoadingRegistrar
+ADDED from [com.google.firebase:firebase-common:19.5.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/624048152b5c34465c301686b1d20b96/firebase-common-19.5.0/AndroidManifest.xml:43:13-45:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/624048152b5c34465c301686b1d20b96/firebase-common-19.5.0/AndroidManifest.xml:45:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/624048152b5c34465c301686b1d20b96/firebase-common-19.5.0/AndroidManifest.xml:44:17-121
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/a49ca5f9155a9aeff23661f064aa80e9/play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/a49ca5f9155a9aeff23661f064aa80e9/play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/trucha/.gradle/caches/transforms-2/files-2.1/a49ca5f9155a9aeff23661f064aa80e9/play-services-basement-17.0.0/AndroidManifest.xml:24:13-58

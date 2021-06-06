@@ -1,0 +1,12 @@
+com/example/abraacaixa/BuildConfig.java
+ com.example.abraacaixa.BuildConfig
+com/example/abraacaixa/ConfigurarCodigo.java
+ com.example.abraacaixa.ConfigurarCodigo
+com/example/abraacaixa/MainActivity.java
+ com.example.abraacaixa.MainActivity
+ com.example.abraacaixa.MainActivity$1
+ com.example.abraacaixa.MainActivity$2
+ com.example.abraacaixa.MainActivity$3
+ com.example.abraacaixa.MainActivity$4
+ com.example.abraacaixa.MainActivity$5
+ com.example.abraacaixa.MainActivity$6
