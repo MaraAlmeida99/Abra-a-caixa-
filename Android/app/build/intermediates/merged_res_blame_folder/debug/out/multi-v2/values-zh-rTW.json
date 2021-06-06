@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/trucha/AndroidStudioProjects/AbraaCaixa/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rTW/values-zh-rTW.xml",
+            "outputFile": "/home/trucha/AndroidStudioProjects/Abra-a-caixa-/Android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rTW/values-zh-rTW.xml",
             "map": [
                 {
                     "source": "/home/trucha/.gradle/caches/transforms-2/files-2.1/a49ca5f9155a9aeff23661f064aa80e9/play-services-basement-17.0.0/res/values-zh-rTW/values.xml",

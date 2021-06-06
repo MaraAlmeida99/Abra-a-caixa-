@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/trucha/AndroidStudioProjects/AbraaCaixa/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-it/values-it.xml",
+            "outputFile": "/home/trucha/AndroidStudioProjects/Abra-a-caixa-/Android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-it/values-it.xml",
             "map": [
                 {
                     "source": "/home/trucha/.gradle/caches/transforms-2/files-2.1/a49ca5f9155a9aeff23661f064aa80e9/play-services-basement-17.0.0/res/values-it/values.xml",

@@ -15,11 +15,22 @@
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintTop_toTopOf="parent"/>
 
+    <TextView
+        android:id="@+id/TextConfi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Configurar Código"
+        android:textSize="20sp"
+        app:layout_constraintTop_toBottomOf="@+id/Logo"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"/>
+
     <EditText
         android:id="@+id/EditNumerico"
         android:layout_width="60dp"
         android:layout_height="wrap_content"
-        android:layout_marginRight="70dp"
+        android:layout_marginRight="75dp"
+        android:layout_marginTop="3dp"
         android:gravity="center_horizontal"
         android:inputType="number"
         android:maxLength="4"
@@ -33,26 +44,24 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginLeft="88dp"
-        android:layout_marginTop="40dp"
+        android:layout_marginTop="60dp"
         android:text="Batidas:"
         android:textColor="#000000"
         android:textSize="16sp"
         app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/Logo" />
+        app:layout_constraintTop_toBottomOf="@+id/TextConfi" />
 
     <EditText
         android:id="@+id/EditBatidas"
         android:layout_width="60dp"
         android:layout_height="wrap_content"
-        android:layout_marginTop="29dp"
-        android:layout_marginRight="50dp"
+        android:layout_marginTop="39dp"
         android:gravity="center_horizontal"
         android:inputType="text"
         android:maxLength="5"
-        app:layout_constraintHorizontal_bias="0.679"
         app:layout_constraintLeft_toRightOf="@+id/TextBatidas"
         app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/Logo" />
+        app:layout_constraintTop_toBottomOf="@+id/TextConfi" />
 
     <TextView
         android:id="@+id/TextNumerico"
@@ -84,7 +93,7 @@
         android:layout_height="wrap_content"
         android:gravity="center_horizontal"
         android:inputType="text"
-        android:layout_marginRight="8dp"
+        android:layout_marginRight="11dp"
         app:layout_constraintLeft_toRightOf="@+id/TextRotacoes"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/EditNumerico" />
