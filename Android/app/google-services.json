@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "805489632564",
+    "firebase_url": "https://abra-a-caixa-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "abra-a-caixa",
+    "storage_bucket": "abra-a-caixa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805489632564:android:8cf0c7ac2f893de4c6f161",
+        "android_client_info": {
+          "package_name": "com.example.abraacaixa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805489632564-estltr6pi2hma6ok1acabg1n6miukg1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbrDqDtj8bML2CQwOi7F5GAqyWb64dFtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805489632564-estltr6pi2hma6ok1acabg1n6miukg1h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

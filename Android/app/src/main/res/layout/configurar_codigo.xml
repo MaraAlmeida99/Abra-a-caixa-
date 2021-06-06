@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ConfigurarCodigo">
+
+    <ImageView
+        android:id="@+id/Logo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/logo"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
+
+    <EditText
+        android:id="@+id/EditNumerico"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="70dp"
+        android:gravity="center_horizontal"
+        android:inputType="number"
+        android:maxLength="4"
+        app:layout_constraintHorizontal_bias="0.549"
+        app:layout_constraintLeft_toRightOf="@+id/TextNumerico"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/EditBatidas" />
+
+    <TextView
+        android:id="@+id/TextBatidas"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="88dp"
+        android:layout_marginTop="40dp"
+        android:text="Batidas:"
+        android:textColor="#000000"
+        android:textSize="16sp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Logo" />
+
+    <EditText
+        android:id="@+id/EditBatidas"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="29dp"
+        android:layout_marginRight="50dp"
+        android:gravity="center_horizontal"
+        android:inputType="text"
+        android:maxLength="5"
+        app:layout_constraintHorizontal_bias="0.679"
+        app:layout_constraintLeft_toRightOf="@+id/TextBatidas"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Logo" />
+
+    <TextView
+        android:id="@+id/TextNumerico"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="88dp"
+        android:layout_marginTop="24dp"
+        android:text="Código Númerico:"
+        android:textColor="#000000"
+        android:textSize="16sp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/TextBatidas" />
+
+    <TextView
+        android:id="@+id/TextRotacoes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="88dp"
+        android:layout_marginTop="24dp"
+        android:text="Rotações:"
+        android:textColor="#000000"
+        android:textSize="16sp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/TextNumerico"/>
+
+    <EditText
+        android:id="@+id/EditRotacoes"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:inputType="text"
+        android:layout_marginRight="8dp"
+        app:layout_constraintLeft_toRightOf="@+id/TextRotacoes"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/EditNumerico" />
+
+    <Button
+        android:id="@+id/GuardarCodigo"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="Guardar Código"
+        android:onClick="GuardarCodigo"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.502"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/TextRotacoes"
+        app:layout_constraintVertical_bias="0.376" />
+
+    <Button
+        android:id="@+id/Cancelar"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="Cancelar"
+        android:onClick="cancel"
+        app:layout_constraintHorizontal_bias="0.502"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/GuardarCodigo" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
