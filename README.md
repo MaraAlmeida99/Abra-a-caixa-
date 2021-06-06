@@ -28,7 +28,7 @@ Nesta secção são descritos os passos necessários para uma prévia instalaç�
 
 -Necessário Android 11
 
--Download do APK disponivel no link: https://github.com/MaraAlmeida99/Abra-a-caixa-/tree/main/Android/app/build/outputs/apk/debug/app-debug.apk
+-Download do APK ('app-debug.apk') disponivel no link: https://github.com/MaraAlmeida99/Abra-a-caixa-/tree/main/Android/app/build/outputs/apk/debug
 
 **Para executar a parte referente ao Raspberry Pi é necessário seguir os passos seguintes:**
 
